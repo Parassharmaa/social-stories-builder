@@ -7,10 +7,10 @@ pip install -r requirements.txt
 ```
 
 ## Usage
-Set your OPEN_AI_API_KEY
+Set your OPENAI_API_KEY
 
 ```
-export OPEN_AI_API_KEY=YOUR_API_KEY
+export OPENAI_API_KEY=YOUR_API_KEY
 ```
 
 ```
